@@ -1,0 +1,14 @@
+.cabecalho{
+    background-color: aqua;
+}
+
+.pricipal{
+    background-color: blue;
+    color: brown;
+}
+
+.rodape{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
