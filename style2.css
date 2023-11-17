@@ -1,0 +1,12 @@
+#imagem-namoro{
+    width: 200px;
+}
+
+.cabecalho{
+    border: 3px;
+    border-style: dashed;
+    border-color: chocolate;
+    background-color: black;
+    color: aliceblue;
+    margin: 50px;
+}
